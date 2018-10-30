@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="userdbdao" />
+        <module name="usersdbservice" />
+        <module name="usersdbweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="asdasdadsa" target="1.7" />
+      <module name="userdbdao" target="1.5" />
+      <module name="usersdb" target="1.7" />
+      <module name="usersdbservice" target="1.7" />
+      <module name="usersdbweb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

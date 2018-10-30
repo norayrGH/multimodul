@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="usersdbweb:war">
+    <output-path>$PROJECT_DIR$/usersdbweb/target</output-path>
+    <root id="archive" name="user.sdb.web.war">
+      <element id="artifact" artifact-name="usersdbweb:war exploded" />
+    </root>
+  </artifact>
+</component>

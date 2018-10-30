@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/userdbdao/userdbdao.iml" filepath="$PROJECT_DIR$/userdbdao/userdbdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usersdb.iml" filepath="$PROJECT_DIR$/usersdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usersdbservice/usersdbservice.iml" filepath="$PROJECT_DIR$/usersdbservice/usersdbservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usersdbweb/usersdbweb.iml" filepath="$PROJECT_DIR$/usersdbweb/usersdbweb.iml" />
+    </modules>
+  </component>
+</project>
